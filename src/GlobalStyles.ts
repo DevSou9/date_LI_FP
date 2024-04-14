@@ -5,7 +5,7 @@ const GlobalStyle = createGlobalStyle`
   * {
    
     box-sizing: content-box;
-    
+    font-family: "Roboto", sans-serif;
   }
 `
 export default GlobalStyle
